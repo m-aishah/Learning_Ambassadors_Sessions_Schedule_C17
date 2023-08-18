@@ -75,7 +75,7 @@
 - 
 
 #### Slides
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1AfWoSCV3OpRB9bn3c3WbpVWrJz2GVZPXuReZeazUtKQ/edit#slide=id.p1)
 
 #### Resources
 [resources 1]()
