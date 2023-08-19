@@ -37,7 +37,7 @@
 [cs50 printf man](https://manual.cs50.io/3/printf)
 
 #### Record
-[Record](https://www.youtube.com/watch?v=g8wMYEVPdmY&ab_channel=MariamIbrahim)
+[Record](https://youtu.be/kFsGFgCdZSk)
 
 ***
 ## August 19th
