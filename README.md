@@ -58,9 +58,13 @@
 [Slides](https://docs.google.com/presentation/d/1AfWoSCV3OpRB9bn3c3WbpVWrJz2GVZPXuReZeazUtKQ/edit#slide=id.p1)
 
 #### Resources
-[all resources](https://alx-feb-resources.notion.site/Month-1-b35434939a8f4a88a980081ade149c40#02f90ae5de174c34a52e2ea7af9a8b71)
+[printf resources](https://alx-feb-resources.notion.site/Month-1-b35434939a8f4a88a980081ade149c40#02f90ae5de174c34a52e2ea7af9a8b71)
+##### Terminal
+[ohmyposh](https://ohmyposh.dev/)
+[ohmyposh-Video](https://www.youtube.com/watch?v=2LEnBXH8xV0&ab_channel=TroubleChute)
+
 #### Record
-[SOON]()
+[Link](https://youtu.be/s6z0Saa_sIw)
 ***
 <!--
 ## August 20th
