@@ -22,6 +22,13 @@
 
 # Sessions
 ## Session at 2 PM GMT - 3 PM WAT - 5 PM EAT
+
+#### Resources
+[cs50 printf man](https://manual.cs50.io/3/printf)
+
+#### Record
+[Record](https://www.youtube.com/watch?v=g8wMYEVPdmY&ab_channel=MariamIbrahim)
+
 ## Session at 4 PM GMT - 5 PM WAT - 7 PM EAT
 
 #### Resources
