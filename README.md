@@ -17,47 +17,20 @@
 
 | Time                             | Session                             | Learning Ambassadors   |
 |----------------------------------|-------------------------------------|------------------------|
-| 7 AM GMT - 8 AM WAT - 10 AM EAT | [Session Details](#session-at-7-am-gmt---8-am-wat---10-am-eat) | Udobeke Chinagwam, Davies Ani |
-| 10 AM GMT - 11 AM WAT - 1 PM EAT | [Session Details](#session-at-10-am-gmt---11-am-wat---1-pm-eat) | Martins Ndifon, Siphamandla Matshiane, Anthony Ebo |
+| 2 PM GMT - 3 PM WAT - 5 PM EAT | [Session Details](#session-at-2-pm-gmt---3-pm-wat---5-pm-eat) | Mariam Ibrahim, Winfred Kilonzo |
+| 4 PM GMT - 5 PM WAT - 7 PM EAT | [Session Details](#session-at-4-pm-gmt---5-pm-wat---7-pm-eat) | Mariam Ibrahim, Winfred Kilonzo |
+
 # Sessions
-## Session at 7 AM GMT - 8 AM WAT - 10 AM EAT
-
-#### Agenda
-- 
-- 
-- 
-- 
-
-#### Slides
-[Slides]()
+## Session at 2 PM GMT - 3 PM WAT - 5 PM EAT
+## Session at 4 PM GMT - 5 PM WAT - 7 PM EAT
 
 #### Resources
-[resources 1]()
+[Simplifying Code with Structs: Enhancing Readability and Efficiency](https://medium.com/@lovelymariafever/simplifying-code-with-structs-enhancing-readability-and-efficiency-615d6b4c8aa4)
 
-[resources 2]()
-
-#### Record
-[Record]()
-
-***
-## Session at 10 AM GMT - 11 AM WAT - 1 PM EAT
-
-#### Agenda
-- 
-- 
-- 
-- 
-
-#### Slides
-[Slides]()
-
-#### Resources
-[resources 1]()
-
-[resources 2]()
+[cs50 printf man](https://manual.cs50.io/3/printf)
 
 #### Record
-[Record]()
+[Record](https://www.youtube.com/watch?v=g8wMYEVPdmY&ab_channel=MariamIbrahim)
 
 ***
 ## August 19th
@@ -69,24 +42,20 @@
 ## Session at 1 PM GMT - 2 PM WAT - 4 PM EAT
 
 #### Agenda
-- 
-- 
-- 
-- 
+- How to think about this project
+- How to test your own printf function 
+- How to Collaborate with teammate using GitHub 
+
 
 #### Slides
 [Slides](https://docs.google.com/presentation/d/1AfWoSCV3OpRB9bn3c3WbpVWrJz2GVZPXuReZeazUtKQ/edit#slide=id.p1)
 
 #### Resources
-[resources 1]()
-
-[resources 2]()
-
+[all resources](https://alx-feb-resources.notion.site/Month-1-b35434939a8f4a88a980081ade149c40#02f90ae5de174c34a52e2ea7af9a8b71)
 #### Record
 [SOON]()
-
 ***
-
+<!--
 ## August 20th
 | Time                             | Session                             | Learning Ambassadors   |
 |----------------------------------|-------------------------------------|------------------------|
@@ -175,3 +144,4 @@
 # Sessions
 
 ***
+-->
