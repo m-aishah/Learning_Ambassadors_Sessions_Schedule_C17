@@ -78,7 +78,7 @@
 [Session Recording](https://youtu.be/bj9F--hWp98)
 
 ***
-<!--
+
 ## August 20th
 | Time                             | Session                             | Learning Ambassadors   |
 |----------------------------------|-------------------------------------|------------------------|
@@ -88,24 +88,23 @@
 ## Session at 2 PM GMT - 3 PM WAT - 5 PM EAT
 
 #### Agenda
-- 
-- 
-- 
-- 
+- Q&A
+- Function Pointer
+- Array of Structs
 
 #### Slides
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1E0qzLBZaYNWUWY6F7xSGaosioR31gncTWrk2ujljjTw/edit?usp=sharing)
 
 #### Resources
-[resources 1]()
+[resources 1](https://medium.com/geekculture/how-to-change-your-github-remote-authentication-from-username-password-to-personal-access-token-64e527a766cf)
 
-[resources 2]()
+[change the remote token git](https://alx-feb-resources.notion.site/Month-1-b35434939a8f4a88a980081ade149c40#02f90ae5de174c34a52e2ea7af9a8b71)
 
 #### Record
 [SOON]()
 
 ***
-
+<!--
 ## August 21st
 | Time                             | Session                             | Learning Ambassadors   |
 |----------------------------------|-------------------------------------|------------------------|
