@@ -44,6 +44,7 @@
 | Time                             | Session                             | Learning Ambassadors   |
 |----------------------------------|-------------------------------------|------------------------|
 | 1 PM GMT - 2 PM WAT - 4 PM EAT | [Session Details](#session-at-1-pm-gmt---2-pm-wat---4-pm-eat) | Emad Anwer, Mahmoud Abdelhady |
+| 6 PM GMT - 7 PM WAT - 9 PM EAT | [Session Details](#session-at-6-pm-gmt---7-pm-wat---9-pm-eat) | Aishah Mabayoje, Topman Paul-Dike |
 
 # Sessions
 ## Session at 1 PM GMT - 2 PM WAT - 4 PM EAT
@@ -65,6 +66,17 @@
 
 #### Record
 [Link](https://youtu.be/s6z0Saa_sIw)
+
+## Session at 6 PM GMT - 7 PM WAT - 9 PM EAT
+
+#### Resources
+[Guide to Collaborate on Github - with pictures](https://docs.google.com/document/d/1UObHlvmNMEakiw086eC4RnsHSitw4DtvvrIB2yo_o5g/edit?usp=sharing)
+
+[Writing your own printf function - a playlist](https://www.youtube.com/playlist?list=PLU10dryLOLEGFF4ds1a9SQe5uhMLoCHb3)
+
+#### Record
+[Session Recording](https://youtu.be/bj9F--hWp98)
+
 ***
 <!--
 ## August 20th
