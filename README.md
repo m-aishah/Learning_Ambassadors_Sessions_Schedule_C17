@@ -88,8 +88,10 @@
 
 [change the remote token git](https://alx-feb-resources.notion.site/Month-1-b35434939a8f4a88a980081ade149c40#02f90ae5de174c34a52e2ea7af9a8b71)
 
+[Visualize code](https://pythontutor.com/render.html#mode=display)
+
 #### Record
-[SOON]()
+[youtube](https://youtu.be/xlDoHWbUDJA)
 
 ***
 <!--
