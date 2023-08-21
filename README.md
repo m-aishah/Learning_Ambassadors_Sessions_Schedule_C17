@@ -83,6 +83,7 @@
 | Time                             | Session                             | Learning Ambassadors   |
 |----------------------------------|-------------------------------------|------------------------|
 | 2 PM GMT - 3 PM WAT - 5 PM EAT | [Session Details](#session-at-2-pm-gmt---3-pm-wat---5-pm-eat) | Emad Anwer, Mahmoud Abdelhady |
+| 7 PM GMT - 8 PM WAT - 10 PM EAT | [Session Details](#session-at-7-pm-gmt---8-pm-wat---10-pm-eat) | Aishah Mabayoje, Topman Paul-Dike |
 
 # Sessions
 ## Session at 2 PM GMT - 3 PM WAT - 5 PM EAT
@@ -104,6 +105,19 @@
 
 #### Record
 [youtube](https://youtu.be/xlDoHWbUDJA)
+
+## Session at 7 PM GMT - 8 PM WAT - 10 PM EAT
+
+#### Agenda
+- Return Values
+- Variadic Functions 
+- Extensive Q&A session
+
+#### Resources
+[Variadic Functions](https://en.cppreference.com/w/c/variadic#:~:text=Variadic%20functions%20are%20functions%20)
+
+#### Record
+[Session Recording](https://youtu.be/FCK7GHjgEgA)
 
 ***
 <!--
