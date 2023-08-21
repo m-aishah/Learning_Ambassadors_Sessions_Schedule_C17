@@ -69,6 +69,17 @@
 #### Record
 [Link](https://youtu.be/s6z0Saa_sIw)
 
+
+## Session at 2 PM GMT - 3 PM WAT - 5 PM EAT
+
+#### Resources
+[Session Slides](https://1drv.ms/p/s!AqF5GEfW26fWhneQhtBpQRnIpvEz)
+[Session Recording](https://drive.google.com/file/d/1XKDyNmwbIOEVmd3OOcVHmTg6VrLmQTYm/view?usp=sharing)
+[Demo test codes](https://docs.google.com/document/d/19mfaTI-dB0iJGZ3dlYWVcY6Ull7XyKsX_M5lmqLGEeM/edit)
+[Technical Writing](https://medium.com/@abenapomaa)
+
+
+
 ## Session at 6 PM GMT - 7 PM WAT - 9 PM EAT
 
 #### Resources
@@ -81,12 +92,6 @@
 
 
 
-## Session at 2 PM GMT - 3 PM WAT - 5 PM EAT
-#### Resources
-[Session Slides](https://1drv.ms/p/s!AqF5GEfW26fWhneQhtBpQRnIpvEz)
-[Session Recording](https://drive.google.com/file/d/1XKDyNmwbIOEVmd3OOcVHmTg6VrLmQTYm/view?usp=sharing)
-[Demo test codes](https://docs.google.com/document/d/19mfaTI-dB0iJGZ3dlYWVcY6Ull7XyKsX_M5lmqLGEeM/edit)
-[Technical Writing](https://medium.com/@abenapomaa)
 
 
 ***
