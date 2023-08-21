@@ -157,7 +157,7 @@
 #### [Slides](https://docs.google.com/presentation/d/1CwXWTeWueNXy9NeA6t-nTBDIlog_qxPI/edit?usp=sharing&ouid=114295522366320278838&rtpof=true&sd=true)
 
 #### Record Link
-https://drive.google.com/file/d/13-zwI-wwa_Jjhggqnv82TrQ9-93bNNHo/view?usp=sharing
+[Link to Video of session](https://drive.google.com/file/d/13-zwI-wwa_Jjhggqnv82TrQ9-93bNNHo/view?usp=sharing)
 
 
 
