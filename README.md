@@ -146,6 +146,7 @@
 #### Record
 [SOON]()
 
+-->
 
 ## Session at 3 PM GMT - 4 PM WAT - 6 PM EAT
 
@@ -161,7 +162,7 @@ https://drive.google.com/file/d/13-zwI-wwa_Jjhggqnv82TrQ9-93bNNHo/view?usp=shari
 
 
 
-
+<!--
 ***
 
 ## August 22nd
