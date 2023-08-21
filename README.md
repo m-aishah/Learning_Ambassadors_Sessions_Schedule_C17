@@ -74,8 +74,11 @@
 
 #### Resources
 [Session Slides](https://1drv.ms/p/s!AqF5GEfW26fWhneQhtBpQRnIpvEz)
+
 [Session Recording](https://drive.google.com/file/d/1XKDyNmwbIOEVmd3OOcVHmTg6VrLmQTYm/view?usp=sharing)
+
 [Demo test codes](https://docs.google.com/document/d/19mfaTI-dB0iJGZ3dlYWVcY6Ull7XyKsX_M5lmqLGEeM/edit)
+
 [Technical Writing](https://medium.com/@abenapomaa)
 
 
