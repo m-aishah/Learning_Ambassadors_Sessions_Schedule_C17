@@ -125,7 +125,7 @@
 | Time                             | Session                             | Learning Ambassadors   |
 |----------------------------------|-------------------------------------|------------------------|
 | 7 PM GMT - 8 PM WAT - 10 PM EAT | [Session Details](#session-at-7-pm-gmt---8-pm-wat---10-pm-eat) | Emad Anwer, Mahmoud Abdelhady |
-
+| 3 PM GMT - 4 PM WAT - 6PM EAT   | [Session Details](Session at 3 PM GMT - 4 PM WAT - 6 PM EAT)   | Leonard Odoi, Abena Pomaa Oppong|
 # Sessions
 ## Session at 7 PM GMT - 8 PM WAT - 10 PM EAT
 
@@ -146,6 +146,23 @@
 #### Record
 [SOON]()
 
+-->
+
+## Session at 3 PM GMT - 4 PM WAT - 6 PM EAT
+
+#### Agenda
+- Understanding all the requirements of the tasks
+- Q & A
+
+#### [Slides](https://docs.google.com/presentation/d/1CwXWTeWueNXy9NeA6t-nTBDIlog_qxPI/edit?usp=sharing&ouid=114295522366320278838&rtpof=true&sd=true)
+
+#### Record Link
+[Link to Video of session](https://drive.google.com/file/d/13-zwI-wwa_Jjhggqnv82TrQ9-93bNNHo/view?usp=sharing)
+
+
+
+
+<!--
 ***
 
 ## August 22nd
