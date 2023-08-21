@@ -44,7 +44,9 @@
 | Time                             | Session                             | Learning Ambassadors   |
 |----------------------------------|-------------------------------------|------------------------|
 | 1 PM GMT - 2 PM WAT - 4 PM EAT | [Session Details](#session-at-1-pm-gmt---2-pm-wat---4-pm-eat) | Emad Anwer, Mahmoud Abdelhady |
+| 2 PM GMT - 3 PM WAT - 5 PM EAT   |[Session Details](#session-at-2-pm-gmt---4-pm-wat---5-pm-eat) | Leonard Odoi, Abena Pomaa Oppong |
 | 6 PM GMT - 7 PM WAT - 9 PM EAT | [Session Details](#session-at-6-pm-gmt---7-pm-wat---9-pm-eat) | Aishah Mabayoje, Topman Paul-Dike |
+
 
 # Sessions
 ## Session at 1 PM GMT - 2 PM WAT - 4 PM EAT
@@ -76,6 +78,16 @@
 
 #### Record
 [Session Recording](https://youtu.be/bj9F--hWp98)
+
+
+
+## Session at 2 PM GMT - 3 PM WAT - 5 PM EAT
+#### Resources
+[Session Slides](https://1drv.ms/p/s!AqF5GEfW26fWhneQhtBpQRnIpvEz)
+[Session Recording](https://drive.google.com/file/d/1XKDyNmwbIOEVmd3OOcVHmTg6VrLmQTYm/view?usp=sharing)
+[Demo test codes](https://docs.google.com/document/d/19mfaTI-dB0iJGZ3dlYWVcY6Ull7XyKsX_M5lmqLGEeM/edit)
+[Technical Writing](https://medium.com/@abenapomaa)
+
 
 ***
 
@@ -125,7 +137,7 @@
 | Time                             | Session                             | Learning Ambassadors   |
 |----------------------------------|-------------------------------------|------------------------|
 | 7 PM GMT - 8 PM WAT - 10 PM EAT | [Session Details](#session-at-7-pm-gmt---8-pm-wat---10-pm-eat) | Emad Anwer, Mahmoud Abdelhady |
-| 3 PM GMT - 4 PM WAT - 6PM EAT   | [Session Details](Session at 3 PM GMT - 4 PM WAT - 6 PM EAT)   | Leonard Odoi, Abena Pomaa Oppong|
+| 3 PM GMT - 4 PM WAT - 6PM EAT   | [Session Details](#Session at 3 PM GMT - 4 PM WAT - 6 PM EAT)   | Leonard Odoi, Abena Pomaa Oppong|
 # Sessions
 ## Session at 7 PM GMT - 8 PM WAT - 10 PM EAT
 
